@@ -4,6 +4,6 @@ class my_file {
 
 		System.out.println("Firstproject Git");
 		System.out.println("New Line");
-		System.out.println("New new  Line");
+		System.out.println("Adding future plans");
 	}
 }
